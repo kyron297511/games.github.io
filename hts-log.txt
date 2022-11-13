@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 12 Nov 2022 23:23:33 at https://sites.google.com/scsnc.org/unblockedkt/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sites.google.com/scsnc.org/unblockedkt/ -O1 "C:\My Web Sites\wbesite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:24:24	Error: 	"Not Found" (404) at link https://sites.google.com/scsnc.org/unblockedkt/"https://scratch.mit.edu/projects/759195279/embed" (from https://sites.google.com/scsnc.org/unblockedkt/space-bar-counter)
+23:24:24	Error: 	"Not Found" (404) at link https://sites.google.com/scsnc.org/unblockedkt/"https://padlet.com/embed/mfvzt0tzvzs0sndl" (from https://sites.google.com/scsnc.org/unblockedkt/padlet-for-unblocked-games-kyron)
+23:24:24	Error: 	"Not Found" (404) at link https://sites.google.com/scsnc.org/unblockedkt/"https://padlet.com?ref=embed%22 (from https://sites.google.com/scsnc.org/unblockedkt/padlet-for-unblocked-games-kyron)
+23:24:24	Error: 	"Not Found" (404) at link https://sites.google.com/scsnc.org/unblockedkt/"https://padlet.net/embeds/made_with_padlet_2022.png" (from https://sites.google.com/scsnc.org/unblockedkt/padlet-for-unblocked-games-kyron)
+23:24:24	Error: 	"Not Found" (404) at link https://sites.google.com/scsnc.org/unblockedkt/"https://pollev-embeds.com/clickable_images/zZmfkCehif6WhGEHFgJRT/respond" (from https://sites.google.com/scsnc.org/unblockedkt/how-are-you-felling-poll)
+23:24:24	Error: 	"Not Found" (404) at link https://sites.google.com/scsnc.org/unblockedkt/"https://docs.google.com/presentation/d/e/2PACX-1vTVTV9DEHGwt0ZY0AJK_hF0DSvi6tRh42t6qfgZNaQt3xgGANikkDRo1H6MhHD4M8hAlXXel00Gstdq/embed?start=false&loop=false&delayms=60000%22 (from https://sites.google.com/scsnc.org/unblockedkt/osu)
+23:24:24	Error: 	"Not Found" (404) at link https://sites.google.com/scsnc.org/unblockedkt/"https://app.nearpod.com/?pin=VGRHA&he=true%22 (from https://sites.google.com/scsnc.org/unblockedkt/thing)
+23:24:24	Error: 	"Not Found" (404) at link https://sites.google.com/scsnc.org/unblockedkt/"https://edpuzzle.com/embed/assignments/6329c737440e0c40fc382259/watch" (from https://sites.google.com/scsnc.org/unblockedkt/naruto-form-quiz)
+23:24:24	Error: 	"Not Found" (404) at link https://sites.google.com/scsnc.org/unblockedkt/"https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_en.html" (from https://sites.google.com/scsnc.org/unblockedkt/build-a-atom)
+23:24:24	Error: 	"Not Found" (404) at link https://sites.google.com/scsnc.org/unblockedkt/"https://wordwall.net/embed/5570e9e31a104d858547c02294b16447?themeId=1&templateId=37&fontStackId=21%22 (from https://sites.google.com/scsnc.org/unblockedkt/name-sort)
+23:24:24	Error: 	"Not Found" (404) at link https://sites.google.com/scsnc.org/unblockedkt/"https://wordwall.net/embed/7dff3547ff1e4189914b2fd948d901c4?themeId=1&templateId=5&fontStackId=0%22 (from https://sites.google.com/scsnc.org/unblockedkt/naruto-quiz)
+23:24:24	Error: 	"Not Found" (404) at link https://sites.google.com/scsnc.org/unblockedkt/"https://scratch.mit.edu/projects/72232520/embed" (from https://sites.google.com/scsnc.org/unblockedkt/hacker-typer)
+23:24:24	Error: 	"Not Found" (404) at link https://sites.google.com/scsnc.org/unblockedkt/"https://scratch.mit.edu/projects/389464290/embed" (from https://sites.google.com/scsnc.org/unblockedkt/getting-over-it)
+23:24:24	Error: 	"Not Found" (404) at link https://sites.google.com/scsnc.org/unblockedkt/"https://wordwall.net/embed/818d9bc9fcd748efbdc766ded563e9ff?themeId=1&templateId=22&fontStackId=0%22 (from https://sites.google.com/scsnc.org/unblockedkt/13-colonies-labeled)
+23:24:24	Error: 	"Not Found" (404) at link https://sites.google.com/scsnc.org/unblockedkt/"https://wordwall.net/embed/696added2b35423d9db80e6e2c690569?themeId=1&templateId=8&fontStackId=0%22 (from https://sites.google.com/scsnc.org/unblockedkt/number-wheel)
+23:24:24	Error: 	"Not Found" (404) at link https://sites.google.com/scsnc.org/unblockedkt/"https://scratch.mit.edu/projects/265327349/embed" (from https://sites.google.com/scsnc.org/unblockedkt/sharp-shooter)
+23:24:24	Error: 	"Not Found" (404) at link https://sites.google.com/scsnc.org/unblockedkt/"https://wordwall.net/embed/c4ea24379ce043c29a8103c2a4a081bc?themeId=6&templateId=8&fontStackId=0%22 (from https://sites.google.com/scsnc.org/unblockedkt/pet-wheel)
+23:24:24	Error: 	"Not Found" (404) at link https://sites.google.com/scsnc.org/unblockedkt/"https://scratch.mit.edu/projects/692634542/embed" (from https://sites.google.com/scsnc.org/unblockedkt/backrooms)
+23:24:24	Error: 	"Not Found" (404) at link https://sites.google.com/scsnc.org/unblockedkt/"https://wordwall.net/embed/07bdd17fccdc492eb2b5123b9f32f3df?themeId=1&templateId=8&fontStackId=0%22 (from https://sites.google.com/scsnc.org/unblockedkt/emotion-wheel)
+23:24:24	Error: 	"Not Found" (404) at link https://sites.google.com/scsnc.org/unblockedkt/"https://wordwall.net/embed/play/13372/176/349" (from https://sites.google.com/scsnc.org/unblockedkt/13-colonies-quiz)
+23:24:25	Error: 	"Not Found" (404) at link https://sites.google.com/scsnc.org/unblockedkt/"https://wordwall.net/embed/2726d5bc20924f9499a2f18cafba5480?themeId=44&templateId=35&fontStackId=0%22 (from https://sites.google.com/scsnc.org/unblockedkt/arctic-animal-true-or-false)
+
+HTTrack Website Copier/3.49-2 mirror complete in 52 seconds : 73 links scanned, 51 files written (4415441 bytes overall) [1132262 bytes received at 21774 bytes/sec], 6248322 bytes transferred using HTTP compression in 72 files, ratio 16%
+(21 errors, 0 warnings, 0 messages)
